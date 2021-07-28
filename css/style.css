@@ -1,0 +1,30 @@
+
+header{
+    box-shadow: rgba(185 185 185 / 25%) 0px 4px 4px;
+}
+ul a:hover{
+    border-bottom: 5px solid rgba(9, 39, 83, 0.9);
+    
+}
+
+ul a.active{
+    border-bottom: 5px solid rgba(9, 39, 83, 0.9);
+}
+
+.banner{
+    /* background-color: black; */
+    /* background-image: linear-gradient(#A770EF,#FDB99B); */
+    background-image: url(../assets/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.process{
+    box-shadow: 0 4px 4px hsl(0deg 0% 73% / 25%);
+}
+
+.footer-bg{
+    background-color: #f26d3e;
+}
+
